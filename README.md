@@ -14,4 +14,4 @@ I debugged an existing game and added some features during Colt Steeles React Co
 # What i learned
 
 * How to read from other peoples codebase and debug it step by step
-* Complement the code of other people by adding more functionality and features.
+* Complement the code of other people by adding more functionality and features
